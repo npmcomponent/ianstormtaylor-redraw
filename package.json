@@ -1,0 +1,11 @@
+{
+  "name": "ianstormtaylor-redraw",
+  "description": "Force a redraw on an element.",
+  "version": "0.0.1",
+  "keywords": [
+    "redraw",
+    "repaint"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
